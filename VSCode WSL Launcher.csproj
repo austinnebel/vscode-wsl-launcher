@@ -7,7 +7,7 @@
     <ProjectGuid>{4AEF2DD3-3D73-496D-9846-399A7A7FC8B7}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>VSCode_WSL_Launcher</RootNamespace>
-    <AssemblyName>Visual Studio Code %28WSL%29</AssemblyName>
+    <AssemblyName>CodeWSL</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

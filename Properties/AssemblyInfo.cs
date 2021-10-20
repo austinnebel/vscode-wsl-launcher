@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Visual Studio Code WSL Launcher")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Visual Studio Code (WSL)")]
+[assembly: AssemblyDescription("Launches VSCode from inside a WSL environment.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("VSCode WSL Launcher")]
+[assembly: AssemblyProduct("Visual Studio Code (WSL)")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
